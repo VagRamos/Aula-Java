@@ -1,2 +1,2 @@
 # aulas-Java
-Aulas de java com JGrasp na Fatec-SP
+Estudando Java com JGrasp na Fatec-SP
